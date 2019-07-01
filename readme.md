@@ -25,5 +25,5 @@ Project is Laravel CMS by TungSoi
 - composer dump-autoload
 - npm run dev
 # Contacts
-- Dao Thanh Tung
+- Nguyen Chi Dung
 - https://github.com/tungsoi
