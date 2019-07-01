@@ -1,0 +1,8 @@
+{
+    "name": "User",
+    "namespace": "Zent\\User\\",
+    "provider": "Zent\\User\\Providers\\UserServiceProvider",
+    "author": "ThanhTung",
+    "version": "1.0",
+    "description": "The description for module user"
+}

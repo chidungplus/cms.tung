@@ -1,0 +1,8 @@
+{
+    "name": "Customer",
+    "namespace": "Zent\\Customer\\",
+    "provider": "Zent\\Customer\\Providers\\CustomerServiceProvider",
+    "author": "ThanhTung",
+    "version": "1.0",
+    "description": "The description for module customer"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Permission",
+    "namespace": "Zent\\Permission\\",
+    "provider": "Zent\\Permission\\Providers\\PermissionServiceProvider",
+    "author": "ThanhTung",
+    "version": "1.0",
+    "description": "The description for module permission"
+}

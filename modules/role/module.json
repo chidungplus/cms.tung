@@ -1,0 +1,8 @@
+{
+    "name": "Role",
+    "namespace": "Zent\\Role\\",
+    "provider": "Zent\\Role\\Providers\\RoleServiceProvider",
+    "author": "ThanhTung",
+    "version": "1.0",
+    "description": "The description for module role"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "ActivityLog",
+    "namespace": "Zent\\ActivityLog\\",
+    "provider": "Zent\\ActivityLog\\Providers\\ActivityLogServiceProvider",
+    "author": "ThanhTung",
+    "version": "1.0",
+    "description": "The description for module activityLog"
+}

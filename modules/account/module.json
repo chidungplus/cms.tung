@@ -1,0 +1,8 @@
+{
+    "name": "Account",
+    "namespace": "Zent\\Account\\",
+    "provider": "Zent\\Account\\Providers\\AccountServiceProvider",
+    "author": "ThanhTung",
+    "version": "1.0",
+    "description": "The description for module account"
+}

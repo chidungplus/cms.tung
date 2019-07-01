@@ -1,0 +1,8 @@
+{
+    "name": "SystemLog",
+    "namespace": "Zent\\SystemLog\\",
+    "provider": "Zent\\SystemLog\\Providers\\SystemLogServiceProvider",
+    "author": "ThanhTung",
+    "version": "1.0",
+    "description": "The description for module systemLog"
+}

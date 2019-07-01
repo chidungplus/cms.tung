@@ -1,0 +1,8 @@
+{
+    "name": "Module",
+    "namespace": "Zent\\Module\\",
+    "provider": "Zent\\Module\\Providers\\ModuleServiceProvider",
+    "author": "ThanhTung",
+    "version": "1.0",
+    "description": "The description for module module"
+}
