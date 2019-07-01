@@ -21,7 +21,7 @@ Project is Laravel CMS by TungSoi
 - php artisan migrate
 - php artisan db:seed
 - npm install
-- bower install
+- bower install / sudo bower --allow-root install
 - composer dump-autoload
 - npm run dev
 # Contacts
